@@ -1,6 +1,0 @@
-streamlit
-textblob
-pandas
-scikit-learn
-joblib
-
